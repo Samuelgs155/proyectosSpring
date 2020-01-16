@@ -1,0 +1,5 @@
+package com.congreso.springboot.apirest.repository;
+
+public class ProductRepository {
+
+}
