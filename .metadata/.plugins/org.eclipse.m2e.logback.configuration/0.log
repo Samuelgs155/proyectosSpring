@@ -1003,3 +1003,110 @@
 2020-01-16 10:10:30,880 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-01-16 10:10:30,880 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspaces\workspace-angular-maven\template-apirest\src\test\resources
 2020-01-16 12:03:41,488 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-01-16 12:33:30,467 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 12:33:30,544 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-16 12:33:30,565 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2020-01-16 12:33:30,762 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 12:33:30,763 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspaces\workspace-angular-maven\template-apirest\src\test\resources
+2020-01-16 12:46:18,733 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-01-16 12:46:29,861 [Worker-39: Launching template-apirest] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspaces\workspace-angular-maven\template-apirest
+2020-01-16 12:46:29,862 [Worker-39: Launching template-apirest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean package
+2020-01-16 12:46:31,638 [Worker-40: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-ear-plugin/2.8/maven-ear-plugin-2.8.jar
+2020-01-16 12:46:31,750 [Worker-40: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-ear-plugin/2.8/maven-ear-plugin-2.8.jar
+2020-01-16 12:46:32,846 [Worker-40: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: com.congreso.springboot.apirest:template-apirest:0.0.1-SNAPSHOT @ C:\workspaces\workspace-angular-maven\template-apirest\pom.xml.
+2020-01-16 12:46:38,104 [Worker-40: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.1.2/plexus-archiver-2.1.2.pom
+2020-01-16 12:46:38,162 [Worker-40: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.1.2/plexus-archiver-2.1.2.pom
+2020-01-16 12:46:38,206 [Worker-40: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.4/plexus-io-2.0.4.pom
+2020-01-16 12:46:38,243 [Worker-40: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.4/plexus-io-2.0.4.pom
+2020-01-16 12:46:38,623 [Worker-40: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.1.2/plexus-archiver-2.1.2.jar
+2020-01-16 12:46:38,774 [Worker-40: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.1.2/plexus-archiver-2.1.2.jar
+2020-01-16 12:46:38,801 [Worker-40: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.4/plexus-io-2.0.4.jar
+2020-01-16 12:46:38,875 [Worker-40: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.4/plexus-io-2.0.4.jar
+2020-01-16 12:46:40,268 [Worker-40: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of template-apirest
+2020-01-16 12:46:40,283 [Worker-40: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for template-apirest
+2020-01-16 12:46:40,889 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 12:46:41,685 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2020-01-16 12:46:41,732 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 12:46:41,736 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-16 12:46:41,737 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-16 12:48:09,054 [Worker-31: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.congreso.springboot.apirest:template-apirest:0.0.1-SNAPSHOT @ C:\workspaces\workspace-angular-maven\template-apirest\pom.xml.
+2020-01-16 12:48:10,830 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 12:48:10,835 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-16 12:48:10,835 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-16 12:48:10,838 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 12:48:10,838 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspaces\workspace-angular-maven\template-apirest\src\test\resources
+2020-01-16 12:48:12,104 [Worker-36: Launching template-apirest] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspaces\workspace-angular-maven\template-apirest
+2020-01-16 12:48:12,105 [Worker-36: Launching template-apirest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean package
+2020-01-16 12:49:00,258 [Worker-40: Launching template-apirest] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspaces\workspace-angular-maven\template-apirest
+2020-01-16 12:49:00,259 [Worker-40: Launching template-apirest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean
+2020-01-16 12:49:09,087 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 12:49:09,099 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-16 12:49:09,119 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2020-01-16 12:49:09,233 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 12:49:09,233 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspaces\workspace-angular-maven\template-apirest\src\test\resources
+2020-01-16 12:50:06,993 [Worker-39: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: com.congreso.springboot.apirest:template-apirest:0.0.1-SNAPSHOT @ C:\workspaces\workspace-angular-maven\template-apirest\pom.xml.
+2020-01-16 12:50:08,453 [Worker-39: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of template-apirest
+2020-01-16 12:50:08,454 [Worker-39: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for template-apirest
+2020-01-16 12:50:08,759 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 12:50:08,779 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2020-01-16 12:50:08,806 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 12:50:08,810 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-16 12:50:08,810 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-16 12:50:31,037 [Worker-42: Launching template-apirest] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspaces\workspace-angular-maven\template-apirest
+2020-01-16 12:50:31,037 [Worker-42: Launching template-apirest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean package
+2020-01-16 12:53:54,390 [Worker-44: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.congreso.springboot.apirest:template-apirest:0.0.1-SNAPSHOT @ C:\workspaces\workspace-angular-maven\template-apirest\pom.xml.
+2020-01-16 12:53:56,030 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 12:53:56,034 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-16 12:53:56,036 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-16 12:53:56,038 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 12:53:56,038 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspaces\workspace-angular-maven\template-apirest\src\test\resources
+2020-01-16 12:54:15,168 [Worker-36: Launching Executing install in C__workspaces_workspace-angular-maven_template-apirest] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspaces\workspace-angular-maven\template-apirest
+2020-01-16 12:54:15,168 [Worker-36: Launching Executing install in C__workspaces_workspace-angular-maven_template-apirest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2020-01-16 12:54:22,716 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 12:54:22,719 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-16 12:54:22,786 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2020-01-16 12:54:22,790 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 12:54:22,790 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspaces\workspace-angular-maven\template-apirest\src\test\resources
+2020-01-16 12:55:06,733 [Worker-45: Launching Executing install in C__workspaces_workspace-angular-maven_template-apirest] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspaces\workspace-angular-maven\template-apirest
+2020-01-16 12:55:06,733 [Worker-45: Launching Executing install in C__workspaces_workspace-angular-maven_template-apirest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2020-01-16 12:55:13,556 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 12:55:13,559 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-16 12:55:13,564 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2020-01-16 12:55:13,569 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 12:55:13,569 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspaces\workspace-angular-maven\template-apirest\src\test\resources
+2020-01-16 12:56:02,416 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-16 12:56:06,491 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.congreso.springboot.apirest:template-apirest:0.0.1-SNAPSHOT @ C:\workspaces\workspace-angular-maven\template-apirest\pom.xml.
+2020-01-16 12:56:08,014 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /template-apirest/src/main/java
+2020-01-16 12:56:08,015 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /template-apirest/src/main/resources
+2020-01-16 12:56:08,015 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /template-apirest/src/main/resources
+2020-01-16 12:56:08,016 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /template-apirest/src/test/java
+2020-01-16 12:56:09,071 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2020-01-16 12:56:11,278 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 12:56:11,279 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-16 12:56:11,297 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2020-01-16 12:56:11,404 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 12:56:11,404 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspaces\workspace-angular-maven\template-apirest\src\test\resources
+2020-01-16 13:02:43,307 [Worker-51: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.congreso.springboot.apirest:template-apirest:0.0.1-SNAPSHOT @ C:\workspaces\workspace-angular-maven\template-apirest\pom.xml.
+2020-01-16 13:02:44,431 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 13:02:44,435 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-16 13:02:44,435 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-16 13:02:44,439 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 13:02:44,440 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspaces\workspace-angular-maven\template-apirest\src\test\resources
+2020-01-16 13:02:51,340 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 13:02:51,340 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-16 13:02:51,341 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-16 13:02:51,343 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 13:02:51,345 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspaces\workspace-angular-maven\template-apirest\src\test\resources
+2020-01-16 13:02:53,472 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 13:02:53,473 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-16 13:02:53,475 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-16 13:02:53,477 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 13:02:53,477 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspaces\workspace-angular-maven\template-apirest\src\test\resources
+2020-01-16 13:02:55,262 [Worker-52: Launching template-apirest] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspaces\workspace-angular-maven\template-apirest
+2020-01-16 13:02:55,262 [Worker-52: Launching template-apirest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean package
+2020-01-16 13:04:20,931 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 13:04:20,931 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-16 13:04:20,932 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-16 13:04:20,934 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 13:04:20,935 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspaces\workspace-angular-maven\template-apirest\src\test\resources
+2020-01-16 13:04:25,999 [Worker-51: Launching template-apirest] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspaces\workspace-angular-maven\template-apirest

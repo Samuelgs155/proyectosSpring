@@ -29,7 +29,6 @@ INDEX VERSION 1.131+C:\workspaces\workspace-angular-maven\.metadata\.plugins\org
 4036832107.index
 1534891024.index
 1275800486.index
-3026959866.index
 664171841.index
 4082734887.index
 1419090105.index
