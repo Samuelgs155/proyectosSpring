@@ -1,0 +1,5 @@
+package com.congreso.springboot.apirest.model;
+
+public class Order {
+
+}
